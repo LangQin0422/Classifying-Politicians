@@ -1,2 +1,2 @@
-# Classifying-Politicians
+# ClassifyingPoliticians
 AMATH482HW4
